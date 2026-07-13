@@ -1,0 +1,7 @@
+C:\Users\damaso.duarte\Desktop\FORO\Cifrador\Cifrador\bin\Debug\Cifrador.exe.config
+C:\Users\damaso.duarte\Desktop\FORO\Cifrador\Cifrador\bin\Debug\Cifrador.exe
+C:\Users\damaso.duarte\Desktop\FORO\Cifrador\Cifrador\bin\Debug\Cifrador.pdb
+C:\Users\damaso.duarte\Desktop\FORO\Cifrador\Cifrador\obj\Debug\Cifrador.csproj.AssemblyReference.cache
+C:\Users\damaso.duarte\Desktop\FORO\Cifrador\Cifrador\obj\Debug\Cifrador.csproj.CoreCompileInputs.cache
+C:\Users\damaso.duarte\Desktop\FORO\Cifrador\Cifrador\obj\Debug\Cifrador.exe
+C:\Users\damaso.duarte\Desktop\FORO\Cifrador\Cifrador\obj\Debug\Cifrador.pdb
